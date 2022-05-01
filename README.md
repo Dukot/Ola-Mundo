@@ -1,6 +1,26 @@
 # Olá, Mundo!
  Aulas de **Git** e *GitHub*
 
-Repositório criado durante uma aula ao vivo.
+__*LinguagemMarkDown*__
 
-Essa linha eu adcionei diretamente do site.
+~~LinguagemMarkDown~~
+
+__LinguagemMarkDown__ **LinguagemMarkDown**
+
+_LinguagemMarkDown_ *LinguagemMarkDown*
+
+Lista numerada:
+
+1. João
+2. Maria
+3. Bernardo
+   1. Kaue
+   2. Kauine
+5. Camila
+
+Lista demarcada:
+
+* Teste
+* Teste
+   * Teste
+* Teste
